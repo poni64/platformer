@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "339fdfbb-17b5-4e34-bb89-24ce377a644d",
-            "Value": {
-                "id": "a7a085ec-c822-4332-8775-c8c680f1e10e",
-                "resourcePath": "sprites\\sprite_playernarutorun\\sprite_playernarutorun.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "33c20299-a665-427a-9ba6-603eb8112bb0",
             "Value": {
                 "id": "936c91d9-5b65-47d5-8f5a-04b87ea354f7",
@@ -100,14 +92,6 @@
                 "id": "c43717b6-6a19-4ed6-b990-5c699cc4befb",
                 "resourcePath": "views\\3b7b453b-429c-45ad-8d25-44a55d15729d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3ce7caab-3b58-4b58-ba76-1525b9d9d699",
-            "Value": {
-                "id": "099d2855-66ae-42df-87f3-8842147b0f08",
-                "resourcePath": "sprites\\sprite_nothing\\sprite_nothing.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
