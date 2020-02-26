@@ -4,3 +4,4 @@ vspeed = 4;
 
 sprite_index = sprite_player;
 image_index = 0;
+image_speed = 0;
