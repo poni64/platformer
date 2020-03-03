@@ -1,6 +1,12 @@
 /// @description MAKE HIM GO LEFT
 // You can write your code in this editor
-hspeed = -3
+
+if hspeed > -4 {
+	hspeed -= 0.25}
+if hspeed <= -4 {
+	hspeed -= 0.24}
+if hspeed = -6{
+	hspeed += 0}
 sprite_index = sprite_player;
 image_index = 2;
 
