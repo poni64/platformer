@@ -4,3 +4,5 @@ if vspeed = 8 {
 	vspeed = 8}
 	else {
 		vspeed += 0.25}
+//if collision_rectangle(1, 62, 4, 59, object_nojump, false, false) {
+//hspeed = 0}
